@@ -6,6 +6,7 @@ import javax.sound.midi.MidiEvent;
 import javax.sound.midi.MidiMessage;
 import javax.sound.midi.MidiSystem;
 import javax.sound.midi.Sequence;
+import javax.sound.midi.Sequencer;
 import javax.sound.midi.ShortMessage;
 import javax.sound.midi.Track;
 
@@ -23,9 +24,15 @@ public class DecSing {
 	public static void main(String[] args) throws Exception {
 		//TODO make midi input part of the program arguments
 		Sequence sequence = MidiSystem.getSequence(new File("res/midi/furelise.mid"));
+		Sequencer sequencer = MidiSystem.getSequencer();
+		sequencer.setSequence(sequence);
+		float BPM = sequencer.getTempoInBPM();
+		float PPQ = sequencer.getTempoInMPQ()/1000;
 		System.out.println("Midi loaded!");
+		System.out.println("Tempo in BPM is: " + BPM);
+		System.out.println("Tempo in PPQ is: " + PPQ);
 		DecSing decsing = new DecSing ();
-		Converter converter = new Converter(decsing.getMidiInfo(sequence));
+		Converter converter = new Converter(decsing.getMidiInfo(sequence), (60000/(BPM * PPQ)), "furelise");
 		decsing.getMidiInfo(sequence);
 	}
 	
@@ -59,7 +66,7 @@ public class DecSing {
                         String noteName = NOTE_NAMES[note];
                         velocity = sm.getData2();
                         
-                        raw_notes.add(new Note(noteName + octave + key, velocity, tick));
+                        raw_notes.add(new Note(noteName + octave, velocity, tick));
                         //System.out.println("Note on, " + noteName + octave + " key=" + key + " velocity: " + velocity);
 					} else if (sm.getCommand() == NOTE_OFF) {
 						key = sm.getData1();
