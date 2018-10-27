@@ -22,7 +22,7 @@ public class DecSing {
 
 	public static void main(String[] args) throws Exception {
 		//TODO make midi input part of the program arguments
-		Sequence sequence = MidiSystem.getSequence(new File("res/furelise.mid"));
+		Sequence sequence = MidiSystem.getSequence(new File("res/midi/furelise.mid"));
 		System.out.println("Midi loaded!");
 		DecSing decsing = new DecSing ();
 		Converter converter = new Converter(decsing.getMidiInfo(sequence));
