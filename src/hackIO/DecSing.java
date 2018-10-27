@@ -1,9 +1,6 @@
 package hackIO;
 import java.io.File;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 import javax.sound.midi.MidiEvent;
 import javax.sound.midi.MidiMessage;
@@ -17,8 +14,8 @@ public class DecSing {
 	public static final int NOTE_ON = 144;
 	public static final int NOTE_OFF = 128;
 	public static final String [] NOTE_NAMES = {"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"};
-	public ArrayList<Note> raw_notes = new ArrayList<Note>(); 
-	public ArrayList<Voice> raw_voices = new ArrayList<Voice>();
+	private ArrayList<Note> raw_notes = new ArrayList<Note>(); 
+	private ArrayList<Voice> raw_voices = new ArrayList<Voice>();
 	
 	public DecSing () {
 		
