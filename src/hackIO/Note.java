@@ -2,21 +2,22 @@ package hackIO;
 
 public class Note {
 	
-	//used for conversion
-	public String note;
+	//MIDI Information
+	public int channel;
 	public long tick;
-	public int velocity;
+	public String note;
 	
-	//put into dectalk
+	//DecTalk Information
 	public int frequency;
 	public long length_tick;
-	public int length_miliseconds;
+	public long length_miliseconds;
 	
 	
-	public Note (String note, int velocity, long tick) {
+	public Note (String note, long tick, int channel) {
 		this.note = note;
-		this.velocity = velocity;
 		this.tick = tick;
+		this.channel = channel;
+		
 	}
 
 }
