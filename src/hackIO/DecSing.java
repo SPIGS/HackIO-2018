@@ -14,8 +14,7 @@ public class DecSing {
 	public static final int NOTE_ON = 144;
 	public static final int NOTE_OFF = 128;
 	public static final String [] NOTE_NAMES = {"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"};
-	private ArrayList<Note> raw_notes = new ArrayList<Note>(); 
-	private ArrayList<Voice> raw_voices = new ArrayList<Voice>();
+	
 	
 	public DecSing () {
 		
@@ -26,11 +25,14 @@ public class DecSing {
 		Sequence sequence = MidiSystem.getSequence(new File("res/furelise.mid"));
 		System.out.println("Midi loaded!");
 		DecSing decsing = new DecSing ();
+		Converter converter = new Converter(decsing.getMidiInfo(sequence));
 		decsing.getMidiInfo(sequence);
-		System.out.println(decsing.raw_notes);
 	}
 	
-	public void getMidiInfo (Sequence sequence) {
+	public ArrayList<Voice> getMidiInfo (Sequence sequence) {
+		ArrayList<Note> raw_notes = new ArrayList<Note>(); 
+		ArrayList<Voice> raw_voices = new ArrayList<Voice>();
+		
 		int key;
 		int octave;
 		int note;
@@ -41,7 +43,7 @@ public class DecSing {
 		for (Track track : sequence.getTracks()) {
 			trackNumber++;
 			//System.out.println("Track " + trackNumber + ": size = " + track.size());
-            System.out.println();
+            //System.out.println();
 			for (int i = 0; i < track.size()/10; i++) {
 				MidiEvent event = track.get(i);
 				tick = event.getTick();
@@ -49,7 +51,7 @@ public class DecSing {
 				MidiMessage message = event.getMessage();
 				if (message instanceof ShortMessage) {
 					ShortMessage sm = (ShortMessage)message;
-					System.out.print("Channel: " + sm.getChannel() + " ");
+					//System.out.print("Channel: " + sm.getChannel() + " ");
 					if (sm.getCommand() == NOTE_ON) {
 						key = sm.getData1();
                         octave = (key / 12)-1;
@@ -71,11 +73,12 @@ public class DecSing {
 			}
 			if (!raw_notes.isEmpty()) {
 				raw_voices.add(new Voice(raw_notes));
-				System.out.println(raw_voices.get(0).notes.get(0).note);
+				//System.out.println(raw_voices.get(0).notes.get(0).note);
 			}
-			 System.out.println();
-		
+			 //System.out.println();
 		}
 		
+		
+		return raw_voices;
 	}
 }
