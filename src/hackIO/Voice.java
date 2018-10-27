@@ -1,13 +1,12 @@
 package hackIO;
 
-import java.util.List;
-import java.util.Map;
+import java.util.ArrayList;
 
 
 public class Voice {
-	public Map<Long, Note> notes;
+	public ArrayList<Note> notes;
 	
-	public Voice (Map<Long, Note> notes) {
+	public Voice (ArrayList<Note> notes) {
 		this.notes = notes;
 	}	
 	//TODO getter and setter for params
