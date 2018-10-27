@@ -18,10 +18,14 @@ public class DecSing {
 	public static final int NOTE_OFF = 128;
 	public static final String [] NOTE_NAMES = {"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"};
 	
-	public Map<Integer, Channel> channels = new HashMap<Integer, Channel>();
+	public ArrayList<Channel> channels = new ArrayList<Channel>();
+	public int highest_channel = 0;
+	public float BPM;
+	public float PPQ;
 	
-	public DecSing () {
-		
+	public DecSing (float BPM, float PPQ) {
+		this.BPM = BPM;
+		this.PPQ = PPQ;
 	}
 
 	public static void main(String[] args) throws Exception {
@@ -29,22 +33,21 @@ public class DecSing {
 		Sequence sequence = MidiSystem.getSequence(new File("res/midi/furelise.mid"));
 		Sequencer sequencer = MidiSystem.getSequencer();
 		sequencer.setSequence(sequence);
+		
 		float BPM = sequencer.getTempoInBPM();
 		float PPQ = sequencer.getTempoInMPQ()/1000;
-		System.out.println("Midi loaded!");
-		System.out.println("Tempo in BPM is: " + BPM);
-		System.out.println("Tempo in PPQ is: " + PPQ);
-		DecSing decsing = new DecSing ();
+		
+		DecSing decsing = new DecSing (BPM, PPQ);
 		decsing.getMidiInfo(sequence);
+		
 		//Converter converter = new Converter(decsing.getMidiInfo(sequence), (60000/(BPM * PPQ)), "furelise");
 		//decsing.getMidiInfo(sequence);
 	}
 	
 	public void getMidiInfo (Sequence sequence) {
 		ArrayList<Note> raw_notes = new ArrayList<Note>(); 
-		ArrayList<Voice> raw_voices = new ArrayList<Voice>();
 		
-		int highest_channel = 0;
+		
 		int key;
 		int octave;
 		int note;
@@ -75,7 +78,6 @@ public class DecSing {
 					if (channel > highest_channel) {
 						highest_channel = channel;
 					}
-					
 					
 					//if the command of the short message is note_on
 					if (sm.getCommand() == NOTE_ON) {
@@ -112,6 +114,40 @@ public class DecSing {
 	                        System.out.println("Command:" + sm.getCommand());
 	                }
 	            }
+			}
+		}
+		System.out.println("Amount of notes: " + raw_notes.size());
+		System.out.println("Highest channel " + highest_channel);
+		
+		//create the correct number of channel lists
+		for (int i = 0 ; i <=highest_channel; i++) {
+			channels.add(new Channel(new ArrayList<Note>(), i));
+		}
+		
+		//add the correct notes to their corresponding channel list
+		for (Note raw_note : raw_notes) {
+			for (Channel channel : channels) {
+				if (raw_note.channel == channel.number) {
+					channel.notes.add(raw_note);
+				}
+			}
+		}
+		get_note_lengths();
+	}
+	
+	private void get_note_lengths () {
+		for (Channel channel : channels) {
+			for (Note note : channel.notes) {
+				if (note.velocity == 0) {
+					for (int i = channel.notes.size()-1; i >=0; i--) {
+						if (note.note.equals(channel.notes.get(i).note)) {
+							note.length_tick = channel.notes.get(i).tick - note.tick;
+							channel.notes.remove(note);
+							channel.notes.get(i).set_length_miliseconds(BPM, PPQ);
+							break;
+						}
+					}
+				}
 			}
 		}
 	}
