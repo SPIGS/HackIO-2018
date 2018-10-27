@@ -35,14 +35,16 @@ public class DecSing {
 		System.out.println("Tempo in BPM is: " + BPM);
 		System.out.println("Tempo in PPQ is: " + PPQ);
 		DecSing decsing = new DecSing ();
-		Converter converter = new Converter(decsing.getMidiInfo(sequence), (60000/(BPM * PPQ)), "furelise");
 		decsing.getMidiInfo(sequence);
+		//Converter converter = new Converter(decsing.getMidiInfo(sequence), (60000/(BPM * PPQ)), "furelise");
+		//decsing.getMidiInfo(sequence);
 	}
 	
-	public ArrayList<Voice> getMidiInfo (Sequence sequence) {
+	public void getMidiInfo (Sequence sequence) {
 		ArrayList<Note> raw_notes = new ArrayList<Note>(); 
 		ArrayList<Voice> raw_voices = new ArrayList<Voice>();
 		
+		int highest_channel = 0;
 		int key;
 		int octave;
 		int note;
@@ -70,6 +72,11 @@ public class DecSing {
 					//get the channel
 					int channel = sm.getChannel();
 					
+					if (channel > highest_channel) {
+						highest_channel = channel;
+					}
+					
+					
 					//if the command of the short message is note_on
 					if (sm.getCommand() == NOTE_ON) {
 						
@@ -77,9 +84,10 @@ public class DecSing {
 						octave = (key / 12) - 1;
 						note = key % 12;
 						String noteName = NOTE_NAMES[note];
-						Note raw_note = new Note(noteName + octave, tick, channel);
+						velocity = sm.getData2();
+						Note raw_note = new Note(noteName + octave, velocity,tick, channel);
 						
-						//If the note is being played.
+						//If the note has volume
 						if (sm.getData2() > 0) {
 							
 							raw_notes.add(raw_note);
@@ -87,15 +95,7 @@ public class DecSing {
 							
 						//If the note is silent.	
 						} else if (sm.getData2() == 0) {
-							
-							for (i = raw_notes.size()-1; i>=0; i--) {
-								Note pressed_note = raw_notes.get(i);
-								if (pressed_note.note.equals(raw_note.note)) {
-									pressed_note.length_tick = raw_note.tick - pressed_note.tick;
-								}
-								
-							}
-							System.out.println("Note off, " + noteName + octave + " key= " + key + " channel: " + channel);
+							System.out.println("Note off, " + noteName + octave + " channel: " + channel);
 						}
                         
                      //if the command of the short message is note_off
@@ -110,17 +110,9 @@ public class DecSing {
 					 } else {
 						 //this gets other commands
 	                        System.out.println("Command:" + sm.getCommand());
-	                    }
 	                }
+	            }
 			}
-			if (!raw_notes.isEmpty()) {
-				raw_voices.add(new Voice(raw_notes));
-				//System.out.println(raw_voices.get(0).notes.get(0).note);
-			}
-			 System.out.println();
 		}
-		
-		
-		return raw_voices;
 	}
 }
