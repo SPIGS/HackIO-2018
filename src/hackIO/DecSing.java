@@ -11,6 +11,7 @@ import javax.sound.midi.Sequence;
 import javax.sound.midi.Sequencer;
 import javax.sound.midi.ShortMessage;
 import javax.sound.midi.Track;
+import javax.sound.midi.MetaMessage;
 
 
 public class DecSing {
@@ -57,6 +58,7 @@ public class DecSing {
 			trackNumber++;
 			
             //For the length of the track:
+			// only one tenth of the song to save time testing
 			for (int i = 0; i < track.size()/10; i++) {
 				
 				//Get the events of the track and the tick they occur at
@@ -91,11 +93,11 @@ public class DecSing {
 						if (sm.getData2() > 0) {
 							
 							raw_notes.add(raw_note);
-							System.out.println("Note on, " + noteName + octave + " key=" + key + " channel: " + channel);
+							System.out.println("Channel: " + channel + " Note on, " + noteName + octave + " key=" + key);
 							
 						//If the note is silent.	
 						} else if (sm.getData2() == 0) {
-							System.out.println("Note off, " + noteName + octave + " channel: " + channel);
+							System.out.println("Channel: " + channel + " Note off, " + noteName + octave);
 						}
                         
                      //if the command of the short message is note_off
@@ -111,6 +113,9 @@ public class DecSing {
 						 //this gets other commands
 	                        System.out.println("Command:" + sm.getCommand());
 	                }
+	            } else if (message instanceof MetaMessage) {
+	            	MetaMessage mm = (MetaMessage)message;
+	            	
 	            }
 			}
 		}
