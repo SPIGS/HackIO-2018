@@ -1,12 +1,11 @@
 package hackIO;
 
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import hackIO.Note;
-import hackIO.Voice;
-import hackIO.Song;
 
 public class Converter {
 	private ArrayList<Voice> raw_voices;
@@ -17,18 +16,19 @@ public class Converter {
 
 	// Tick to miliseconds =  tick * (60000/ (bpm * PPQ);
 	private float length_of_tick;
+	private ArrayList<Voice> converted_voices = new ArrayList<Voice> ();
 	
-	public Converter (ArrayList<Voice> raw_voices, float length_of_tick, String song_name) {
+	public Converter (ArrayList<Voice> raw_voices, float length_of_tick, String song_name) throws IOException {
 		this.raw_voices = raw_voices;
 		this.length_of_tick = length_of_tick;
 		convert();
+		AudioGenerator.wav(make_text_file(song_name));
 	}
 	
 	public void convert () {
 		HashMap<Long, Note> ordered_notes = new HashMap<Long, Note>();
 		HashMap<String, Long> hit_notes = new HashMap<String, Long>();
 		ArrayList<Note> converted_notes = new ArrayList<Note> ();
-		ArrayList<Voice> converted_voices = new ArrayList<Voice> ();
 		for (Voice voice : raw_voices) {
 			for (Note note: voice.raw_notes) {
 				ordered_notes.put(note.tick, note);
@@ -70,7 +70,24 @@ public class Converter {
 		
 	}
 	
-	public void make_text_file () {
+	public File make_text_file (String song_name) {
+		File file = new File("res/text/" + song_name + ".txt");
+		try {
+			System.out.println("trying to make file");
+			FileWriter writer = new FileWriter(file);
+			String data = "[:phoneme on][";
+			String noise = "laa";
+			for (Note note : converted_voices.get(0).raw_notes) {
+				data = data + noise + "<" + note.length_miliseconds + "," + note.frequency + ">";
+			}
+			data = data + "]";
+			writer.write(data);
+			writer.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
+		return new File("res/text/" + song_name + ".txt");
 	}
 }
