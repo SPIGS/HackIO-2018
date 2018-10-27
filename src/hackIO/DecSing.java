@@ -47,18 +47,26 @@ public class DecSing {
 		int trackNumber = 0;
 		long tick;
 		
+		//For each track in the midi file:
 		for (Track track : sequence.getTracks()) {
 			trackNumber++;
-			//System.out.println("Track " + trackNumber + ": size = " + track.size());
-            //System.out.println();
+			System.out.println("Track " + trackNumber + ": size = " + track.size());
+            System.out.println();
+            
+            //For the length of the track:
 			for (int i = 0; i < track.size()/10; i++) {
+				//Get the events of the track and the tick they occur at
 				MidiEvent event = track.get(i);
 				tick = event.getTick();
-				//System.out.print("@" + event.getTick() + " ");
+				System.out.print("@" + event.getTick() + " ");
 				MidiMessage message = event.getMessage();
+				//if the message in the event is a shortmessage
 				if (message instanceof ShortMessage) {
 					ShortMessage sm = (ShortMessage)message;
-					//System.out.print("Channel: " + sm.getChannel() + " ");
+					//get the channel
+					System.out.print("Channel: " + sm.getChannel() + " ");
+					
+					//if the command of the short message is note_on
 					if (sm.getCommand() == NOTE_ON) {
 						key = sm.getData1();
                         octave = (key / 12)-1;
@@ -67,16 +75,25 @@ public class DecSing {
                         velocity = sm.getData2();
                         
                         raw_notes.add(new Note(noteName + octave, velocity, tick));
-                        //System.out.println("Note on, " + noteName + octave + " key=" + key + " velocity: " + velocity);
+                        System.out.println("Note on, " + noteName + octave + " key=" + key + " velocity: " + velocity);
+                        
+                     //if the command of the short message is note_off
 					} else if (sm.getCommand() == NOTE_OFF) {
 						key = sm.getData1();
                         octave = (key / 12)-1;
                         note = key % 12;
                         String noteName = NOTE_NAMES[note];
                         velocity = sm.getData2();
-                        //System.out.println("Note off, " + noteName + octave + " key=" + key + " velocity: " + velocity);
-					}
-				}
+                        System.out.println("Note off, " + noteName + octave + " key=" + key + " velocity: " + velocity);
+                        
+					 } else {
+						 //this gets other commands
+	                        System.out.println("Command:" + sm.getCommand());
+	                    }
+	                } else {
+	                	//worthless - does not contribute to song
+	                    System.out.println("Other message: " + message.getClass());
+	                }
 			}
 			if (!raw_notes.isEmpty()) {
 				raw_voices.add(new Voice(raw_notes));

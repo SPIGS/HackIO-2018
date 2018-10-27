@@ -12,7 +12,7 @@ public class Converter {
 	private static final ArrayList<String> SUPPORTED_NOTES = new ArrayList<String>(Arrays.asList("C2", "C#2", "D2", "D#2", "E2", "F2", "F#2", "G2", "G#2", "A2", "A#2", "B2",
 																								 "C3", "C#3", "D3", "D#3", "E3", "F3", "F#3", "G3", "G#3", "A3", "A#3", "B3",
 																								 "C4", "C#4", "D4", "D#4", "E4", "F4", "F#4", "G4", "G#4", "A4", "A#4", "B4",
-																								 "C5", "C#5", "D5", "D#5", "E5", "F5", "F#5", "G5", "G#5", "A5", "A#5", "B5"));
+																								 "C5"));
 
 	// Tick to miliseconds =  tick * (60000/ (bpm * PPQ);
 	private float length_of_tick;
@@ -64,30 +64,38 @@ public class Converter {
 			for (Note note : voice.raw_notes) {
 				note.length_miliseconds = Math.round(note.length_tick * length_of_tick);
 				note.frequency = SUPPORTED_NOTES.indexOf(note.note);
-				System.out.println(note.note+ " frequency: " + note.frequency);
+				//System.out.println(note.note+ " frequency: " + note.frequency);
 			}
 		}
 		
 	}
 	
 	public File make_text_file (String song_name) {
-		File file = new File("res/text/" + song_name + ".txt");
+		ArrayList<File> files = new ArrayList<File>();
 		try {
-			System.out.println("trying to make file");
-			FileWriter writer = new FileWriter(file);
-			String data = "[:phoneme on][";
+			
+			String data = "[:phoneme on][:rate 150][";
 			String noise = "laa";
-			for (Note note : converted_voices.get(0).raw_notes) {
-				data = data + noise + "<" + note.length_miliseconds + "," + note.frequency + ">";
+			int i = 0;
+			for (Voice voice : converted_voices) {
+				File file = new File("res/text/" + song_name + i + ".txt");
+				System.out.println("trying to make file");
+				FileWriter writer = new FileWriter(file);
+				for (Note note : converted_voices.get(0).raw_notes) {
+					data = data + noise + "<" + note.length_miliseconds + "," + note.frequency + ">";
+				}
+				data = data + "]";
+				writer.write(data);
+				writer.close();
+				i++;
+				files.add(file);
 			}
-			data = data + "]";
-			writer.write(data);
-			writer.close();
+			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		return new File("res/text/" + song_name + ".txt");
+		return files.get(0);
 	}
 }
