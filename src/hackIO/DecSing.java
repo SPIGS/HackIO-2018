@@ -19,7 +19,7 @@ public class DecSing {
 	public static final int NOTE_OFF = 128;
 	public static final String [] NOTE_NAMES = {"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"};
 	
-	public ArrayList<Channel> channels = new ArrayList<Channel>();
+	public static ArrayList<Channel> channels = new ArrayList<Channel>();
 	public int highest_channel = 0;
 	public float BPM;
 	public float PPQ;
@@ -31,7 +31,7 @@ public class DecSing {
 
 	public static void main(String[] args) throws Exception {
 		//TODO make midi input part of the program arguments
-		Sequence sequence = MidiSystem.getSequence(new File("res/midi/happydays.mid"));
+		Sequence sequence = MidiSystem.getSequence(new File("res/midi/furelise.mid"));
 		Sequencer sequencer = MidiSystem.getSequencer();
 		sequencer.setSequence(sequence);
 		
@@ -41,8 +41,7 @@ public class DecSing {
 		DecSing decsing = new DecSing (BPM, PPQ);
 		decsing.getMidiInfo(sequence);
 		
-		//Converter converter = new Converter(decsing.getMidiInfo(sequence), (60000/(BPM * PPQ)), "furelise");
-		//decsing.getMidiInfo(sequence);
+		Converter converter = new Converter(channels);
 	}
 	
 	public void getMidiInfo (Sequence sequence) {

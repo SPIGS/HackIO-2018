@@ -16,7 +16,9 @@ public class Converter {
 	public Converter (ArrayList<Channel> channels) throws IOException {
 		convert_to_frequency(channels);
 		
-		//AudioGenerator.wav(make_text_file());
+		for (File file : make_text_file(channels, "test")) {
+			AudioGenerator.wav(file);
+		}
 	}
 	
 	public void convert_to_frequency (ArrayList<Channel> channels) {
@@ -31,32 +33,29 @@ public class Converter {
 		}
 	}
 	
-	public File make_text_file (String song_name) {
+	public ArrayList<File> make_text_file (ArrayList<Channel> channels,String song_name) {
 		ArrayList<File> files = new ArrayList<File>();
 		try {
 			
-			String data = "[:phoneme on][:rate 150][";
+			String data = "[:phoneme on][:rate 10][";
 			String noise = "laa";
-			int i = 0;
-			for (Voice voice : converted_voices) {
-				File file = new File("res/text/" + song_name + i + ".txt");
-				System.out.println("trying to make file");
+			
+			for (Channel channel : channels) {
+				File file = new File("res/text/"+ song_name + "_channel_" + channels.indexOf(channel) +".txt");
 				FileWriter writer = new FileWriter(file);
-				for (Note note : converted_voices.get(0).raw_notes) {
-					data = data + noise + "<" + note.length_miliseconds + "," + note.frequency + ">";
+				for (Note note : channel.notes) {
+					data = data + noise + "<" + note.get_length_miliseconds() + "," + note.frequency + ">";
 				}
 				data = data + "]";
 				writer.write(data);
 				writer.close();
-				i++;
 				files.add(file);
 			}
-			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		return files.get(0);
+		return files;
 	}
 }
