@@ -1,0 +1,6 @@
+welcome, I am perfect paul, the standard male voice.
+You can click any of the faces above, like Doctor Dennis or Beautiful betty
+to change the voice.
+You can change the demo dot t x t to say anything on startup,
+or have it blank for silence.
+there are also many commands and tools like singing scripts freely available on the internet.

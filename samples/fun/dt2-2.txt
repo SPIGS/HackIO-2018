@@ -1,0 +1,1130 @@
+[:ph on]
+
+[:np] [:ra 245]
+Better than life.
+[_<800>]
+
+
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Three million miles from Earth the mining ship Red 
+Dwarf. Its crew: Dave Lister, the last human being alive. Arnold Rimmer, 
+a hologram of his dead bunkmate and a creature who evolved from the 
+ships cat. Message ends 
+[_<400>]
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Additional: Loneliness weighs heavily on us all. 
+Personally the only thing that keeps me going is the thought that 
+we are over sixty billion miles away from the nearest Berni Inn. 
+
+[_<1200>] 
+[:np] [:ra 245]
+
+A rocket powered metal cylinder approaches Red Dwarf from the depths 
+of space. inside, Lister has a medical problem. He is 
+holding a bottle of liquid to help a bad stomach. ]
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  For a mild stomach upset take one tea-spoon-full. 
+For acute indigestion take two. 
+
+[:np] [:ra 245]
+Lister considers this for a moment, takes the spoon out of his mouth and throws it 
+away. Then he empties most of the bottle into a glass and starts gulping 
+it. Rimmer enters, dressed as a chef. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Well, a highly enjoyable meal all round. Obviously 
+you can't expect perfection first time but I was quite delighted with 
+the way my dumplings went down. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Rimmer, real dumplings, proper dumplings when they're 
+properly cooked to perfection, proper dumplings, should not bounce. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  True, but compared to what I thought they were 
+going to be like they were quite superb. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  So how's the Cat? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  He's just sleeping off the stomach pump. He'll 
+be alright. The lamb was a bit of a flop though. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  The lamb? Everybody thought the lamb was the cheese 
+and that lemon meringue pie man, what was in that? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I thought you liked that, you brought some back. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Yeah, I wanted to try some on my athlete's foot. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's not easy Lister, cooking. When you're dead, 
+when you don't exist, when you're made entirely of light. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  That's your excuse for everything isn't it? being 
+dead. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I'm just trying to rehabilitate myself, trying 
+to do the everyday, normal, things that most living people take for 
+granted. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You've got the skutters to help you. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What? Pinky and smeggy Perky? What use are they? It's like giving Blind Pew contact lenses. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  They only do what you tell them to. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Ah but they don't do they? You say "Keep an eye 
+on that lamb" and they do. They sit there for three hours and watch 
+it burn. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  So. They've got no emotion have they? It's not 
+built into their software. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Have you seen their broom cupboard? it's full 
+of pin-ups of John Wayne. That cannot be right can it? Piled this 
+high 
+[:np] [:ra 245]
+Shoulder height.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] with Film Fun magazines. It's not 
+the way spanners behave in my book. 
+
+[:np] [:ra 245]
+Holly appears on the screen and breaks in. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  [oy.] What's happening dudes? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Hi Hol. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Guess what? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Go on, have a guess. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What is it vaguely about? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  No clues, just have a guess. 
+
+[:np] [:ra 245]
+Rimmer and Lister look exasperated. Lister covers his face. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  I knew you wouldn't get it. Post pod's arrived. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What, the mail? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  It's been tracking us since we left Earth. Now we've 
+turned round it's caught up. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Do you mean it's taken 3 million years. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Yeah, that's about average for Second Class Post. 
+
+[_<800>]
+[:np] [:ra 245]
+
+we see the skutters, racing around the corridors. One is wearing 
+an Indian headdress and is being chased by another in a cowboy hat 
+firing a gun. Lister and Rimmer walk past. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  See what I mean? 
+[:np] [:ra 245]
+Rimmer makes an indian war-cry.
+[_<800>]
+The pod has been opened. Piles and piles of mail are lying around. 
+The arm of a skutter takes one from the John Wayne fan club addressed 
+to [_<300>] the skutters, Red Dwarf, Deep Space, R E 1, 3 D W.
+[_<300>]  and disappears. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  There's everything here, all the mail, entertainment 
+cassettes, a new batch of movies. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Oh, the new Friday the thirteenth movie. Friday the thirteenth 
+part one thousand six hundred and forty nine. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Look, Cassablanca! They've re-made Cassablanca. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Philistines. I mean how can you re-make Cassablanca?
+ The one starring Myra Dinglebat and Peter Beardsley was definitive. 
+
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  I saw that one, knockout! Of all the space bars 
+on all the worlds you had to re-materialise in mine.
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Look, a cassette of a whole year's of Earth news 
+here. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  And two seasons of zero gee football. I'll see 
+you in the spring.
+[:np] [:ra 245]
+Lister gets up to leave.
+ 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Ah Ah Ah Ah. What are total immersion video games? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Where? Oh these are brilliant. 
+You can't get hold of these for love nor money; these are like Venus's 
+arms. These are like Brooke Shield's buttocks. 
+[:np] [:ra 245]
+Lister picked up a canister as he spoke.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What are they? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Well they're computer games aren't they? But electrodes 
+are inserted into your frontal lobes and hypothalamus right? So you 
+actually feel as though you're really, really there. Yessssss. 
+[:np] [:ra 245]
+Rimmer seems to dismiss the idea.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Fine. Holly there's something here 
+for you. It's a video letter. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Bung it on. 
+
+[:np] [:ra 245]
+Lister inserts the cassette and a face, somewhat similar to Holly's, 
+appears on the monitor. Except that this one wears glasses. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Strike a light, it's Gordon. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Who's Gordon? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  He's the eleventh generation AI computer aboard 
+the Scott Fitzgerald. He's got an i q of eight thousand. 
+
+ [:nh] [:dv la 100 ap 70]  Alright Hol? It, It's 
+Gordon. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Awesome his intellect I'll tell you. 
+
+[:nh] [:dv la 100 ap 75]  I'm just sending on the latest move in our chess game. My 
+move is Pawn, right. That's the little knobbly ones down the front. 
+Pawn to King four. Your move. Well, I'd better sign off now. See you 
+Hol. Bye. 
+[_<400>]
+uh? [_<400>]
+How do you turn this off then? 
+[:np] [:ra 245]
+Lister turns gorden off and speaks to Holly
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You were playing postal chess 
+with him were you? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Well. A chance to lock horns with an intellect of 
+that calibre I'd be a fool not to. Pawn to King four eh? He's a sly 
+one. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  So who's winning Hol? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Well, he is really. That was the first move. 
+[:np] [:ra 245]
+[_<800>]
+In the sleeping quarters, lister is sorting out the post into piles.  His is a lot larger than rimmers.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Me, Me, Me, You, Me. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's all junk mail yours you know. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Me, Me, Me. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  You send off for every bit of rubbish going you 
+do. Just so you'll have some mail to open. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Me, Me. 
+[:np] [:ra 245]
+Rimmer sounds like an idiot as he says
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Please rush me my portable walrus 
+polishing kit. Four super brushes that will clean even the trickiest 
+of seabound mammals. Yes I am over eighteen though my i q isn't. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Me, Me. Smeg! Outland Revenue. 
+[:np] [:ra 245]
+Rimmer suddenly develops a cheerful expression.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Oh 
+oh oh oh, Outland Revenue. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Eight thousand five hundred? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Eight thousand five hundred? That's a 
+lot of tax isn't it Lister? How on Titan are you going to pay for 
+that eh? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I'm not. [_<600>] It's yours. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What? 
+[:np] [:ra 245]
+rimmer jumps up
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  No. This is wrong, it's wrong. 
+This is well wrong Lister. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Relax. It doesn't matter now. They're not going 
+to catch you now are they? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What do you mean? Just because we're three million 
+years into deep space and the human species is extinct. That means 
+nothing to these people. They'll find us. 
+[:np] [:ra 245]
+Lister seems to shrug it off and returns to mail-sorting.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Me. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  God. I'll be worrying about this all the time now. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Me. No another one for you. Rear Admiral, Lieutenant 
+General Rimmer. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  That's from my mother. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Rear Admiral? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Every time I take an exam I tell her I passed. 
+It's getting embarrassing now. I should be Commander in Chief of the 
+whole universe. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Do you want me to open it? 
+[:np] [:ra 245]
+Rimmer nods, Lister 
+does so and starts to read. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] Dear Rimmer. [_<300>] Is this from your mum? 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  That's mumsie.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  This handwriting's terrible. [_<400>] I hope this epistle 
+finds you adequately healthy to discharge your duties. [_<400>] You know maybe 
+I shouldn't be reading this deeply personal stuff. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Just get on with it. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I write to [_<400>] I can't read that! Oh I write to inform. 
+[_<400>]
+I write to inform you that your father is dad. [_<400>]
+Well of course he 
+is. Maybe it's your father stroke dad. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's dead. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I can't make it out 
+[:np] [:ra 245]
+he holds the letter up and examines 
+it. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  My father is dead. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  What? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  My father is dead. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Oh yeah it's an E. 
+[:np] [:ra 245]
+he's happy to have solved it 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] That's 
+what it is. Your father's dead Rimmer. 
+[:np] [:ra 245]
+he realises what he's said. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] Oh 
+eh. I'm sorry. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Is that all she says? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Just that he passed away peacefully in his Jeep. 
+[_<300>] sleep! 
+[_<800>]
+[:np] [:ra 245]
+The scene is now the observation dome. Rimmer is staring into space. 
+Lister arrives. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Can't sleep? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  [hxm<400>.] 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  No, me neither. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  [hxm<400>.] 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I remember when my dad died you know. I was only 
+six. I got loads of presents off everyone like it was Christmas. I 
+remember wishing a couple more people would die so I could complete 
+my Leggo set. My grandma tried to explain you know. She said he'd gone 
+away and he wasn't coming back. So I wanted to know where like, you 
+know. She said he was very happy and he'd gone to the same place as 
+my goldfish. So I thought they'd flushed him down the bog. I thought 
+he was just round the U bend you know. I used to stuff food down, 
+you know, and magazines and that for him to read. They took me to 
+a child psychologist in the end because they found me with my head 
+down the bowl reading him the football results. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I knew he was dead. I mean they're all dead aren't 
+they? Just getting that letter makes it seem like it happened yesterday. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You never said much about him. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  No. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You must have been pretty close. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Close. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Was it very close? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Close? [_<400>] I hated him. I detested his fat 
+stupid guts the pop-eyed, balding, [giht.] 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  What? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  He always wanted to join the Space Corps, be an 
+officer. But they wouldn't take him because he was an inch below regulation 
+height. One inch. I had three brothers. When we were young he bought 
+a traction machine so that he could stretch us. By the time my brother 
+Frank was eleven he was six foot five. Every morning he'd measure 
+us and if we hadn't grown, back on the rack. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Sounds like he had a screw loose. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I don't think he had one screw fully tightened 
+to be perfectly honest with you. He had this fixation that we all 
+had to get into the Space Corps. At meal times he'd ask us questions 
+on astronavigation. If we got them wrong?  no food. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  God Rimmer, how did you cope with that? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I didn't. I nearly died of malnutrition. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I had no idea. I thought you adored your parents. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  When I was fourteen I divorced them. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  What? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I took them to court. I got paid maintenance until 
+employment age and access every fourth weekend to the family dog. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  So why are you so completely blown away about him 
+dying then? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Oh, it doesn't mean to say I don't respect him, 
+didn't look up to him. It was only natural, he was my father. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  There's nothing natural about your family Rimmer. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's just I always wanted just once, just once, 
+for him to say to me well done.
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  For what? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  For something, for anything. I wanted him to be 
+proud of me, just once. And now [_<400>] 
+
+[:np] [:ra 245]
+The cat enters with a flourish, completely wrecking the serious moment.
+
+
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Wow! My stomach has been pumped and now I'm hungry. 
+Hey there you are. Hey man, I'm so hungry I just have to eat. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  [sh<600>!] Not now man. Rimmer's dad's died. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  I'd prefer chicken. 
+[_<800>]
+[:np] [:ra 245]
+
+Back in the sleeping quarters Rimmer is watching the news tape. A hologrammatic 
+newsreader is reading the news. Behind her is a backdrop saying. Groovy Channel 
+27. 
+
+[:nu]  Good evening. Here is the news on Friday the 
+twenty-seventh of Geldof. Archeologists near mount Sinai have discovered what 
+is believed to be a missing page from the Bible. The page is currently 
+being carbon dated in Bonn. If genuine it belongs at the beginning 
+of the Bible and is believed to read. To my darling Candy. All characters 
+portrayed within this book are fictitous and any resemblance to persons 
+living or dead is purely coincidental. The page has been universally 
+condemned by church leaders. Europe. A terrorist representing the 
+Revolutionary Working Front, a fanatical left wing group dedicated 
+to eliminating the 
+
+[:np] [:ra 245]
+The cat enters and sits on the end of Rimmers bunk. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Pause 
+[:np] [:ra 245]
+The news stops.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  About your father. If it's any help he's in the ground 
+now. Sure it's bad news for him. But on the other hand it's party 
+time for all the little worms 
+[:np] [:ra 245]
+he wiggles his fingers as Rimmer and Lister 
+stare at him. 
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] There's just no consoling him!
+[:np] [:ra 245]
+He leaves. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Rimmer listen, me and the Cat were going to play 
+a t-i-v. We wondered if you wanted to come 
+[:np] [:ra 245]
+Rimmer shakes his head.
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  
+Oh come on Holly says he can key you in 
+[:np] [:ra 245]
+Rimmer shakes his head again.
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]
+No? 
+[:np] [:ra 245]
+after pausing, lister leaves.
+[_<300>]
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Play. 
+
+ [:nu]  middle class was arrested today. The man, 
+Henri le Clerque, was attempting to poison the mineral spring in france 
+which is the source of all the world's Perrier water. Had he succeeded 
+experts believe the middle class would have been wiped out within 
+three weeks. Techno news. The new sensation sweeping the solar system 
+is the total immersion video game Better Than Life. Using the new 
+senso lock feedback technology Better Than Life is able to detect 
+all your desires and fantasies and then make them come true.
+[:np] [:ra 245]
+rimmer sits up and listens more carefully. 
+[:nu] So great is the appeal of Better 
+than life when one store in New Tokyo ran out of stocks rubber nuclear 
+weapons had to be deployed to disperse the crowd. Sport. England's 
+underwater hockey team's tour of Titan 
+[_<800>]
+[:np] [:ra 245]
+
+Rimmer and the Cat are eagerly watching Lister who is searching through 
+the mail. Rimmer has completely changed his mind about the idea and 
+is as keen as the rest of them. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Better than life, here it is. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Brilliant! 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Let's play. Hee hee hee. 
+
+[:np] [:ra 245]
+They all put on rather strange looking helmets and press large electrodes 
+into their heads. A stupefied expression appears on their faces. Their 
+heads roll alarmingly. Suddenly they are seen through a cloud of steam 
+in a corridor. They pass through two sets of imposing double doors 
+and appear on a beach. They have entered Better Than Life.
+
+[_<800>]
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  What sort of game is this? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's incredible. It's just like being here. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Yeesss. 
+
+[:np] [:ra 245]
+Lister has seen Marilyn Monroe walking towards them. 
+
+[:nb]   Boop boop bi doo. 
+[:np] [:ra 245]
+
+
+She waves and walks past. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  That's what's-her-name, the actress from the twentyeth 
+century. Err, Mary Magdelene. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  It's Marilyn Monroe you gimp. 
+[:np] [:ra 245]
+he nudges Cat 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] I think 
+she fancies you. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  What does that prove? She's not blind. Hey baby I'm 
+a little busy right now. I'll catch you later ok? 
+[:np] [:ra 245]
+he waves to her and 
+she waves back.
+ 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's absolutely incredible. Look, Look ! 
+
+[:np] [:ra 245]
+Rimmer has seen a Napoleonic figure standing in the water and runs 
+over to him.
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Excuse me. You're probably really busy but could 
+I just say you are my all time favourite fascist dictator and I've 
+read all your war diaries and I thought your Italian campaign was 
+simply brilliant. Err could you just sign this for me. Err make it 
+out to my good pal Arnie from your dear chum Napolean Bonaparte. It's 
+not for me, it's for my sister Alison. Errm we call her Arnie. 
+
+[:np] [:ra 245]
+Rimmer points behind Napoleans head as he signs the autograph and 
+then goes to rejoin the others.
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Napolean Bonapartes autograph! 
+
+[:np] [:ra 245]
+Suddenly a man appears with them. He is the Better Than Life guide. 
+The crew look rather shocked by his sudden appearance.
+
+
+[:nd] [:dv br 0]  Gentlemen. Welcome to Better Than Life. Well you must 
+be hungry and there's a restaurant just a couple of miles down the 
+beach. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  A couple of miles? How are we supposed to get 
+there. 
+
+[:nd] [:dv br 0]   Anyway you want. After all this is Better Than Life. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Any way we want? 
+
+[:np] [:ra 245]
+Lister concentrates briefly and a powerful motorbike appears on the 
+beach before them. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Hee hee. Yeah. Yo! 
+
+[:np] [:ra 245]
+Lister and the cat get on the bike and sunglasses appear in their 
+hands. They put on the sunglasses, give Rimmer the finger and drive 
+away, covering him in sand in the process. Rimmer concentrates and 
+a clapped out Reliant Robin appears before him.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I'm thinking too small. Think big! 
+
+[:np] [:ra 245]
+The Robin becomes a flashy Jaguar. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  That's more like it. Heh Heh. 
+
+[:np] [:ra 245]
+He gets into the car and turns on the radio. Martial type music comes 
+forth. Rimmer salutes. He concentrates again and a woman appears in 
+the seat next to him. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  McGruder! 
+[:nb] [:dv nf 100 ap 300 hs 110]]
+hi tiger! 
+[gr<20>_<10>r<20>_<10>!r<20>_<10>r<20>_<10>!r<20>_<10>r<20>_<10>!r<20>_<10>r<20>_<10>!r<20>_<10>r<20>_<10>!r<20>_<10>r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!r<40>_<10>!]
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I bet you're wearing a peep-hole bra under that 
+eh? 
+
+[:nb] [:dv nf 100 ap 300 hs 110]]
+yes! I [`]am!
+[:np] [:ra 245]
+Rimmer growls and sticks his hand in his mouth. He seems rather pleased 
+with the way things are going. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  We're only one thing away from perfection. 
+
+[:np] [:ra 245]
+Rimmer concentrates again and fluffy dies appear in the car. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Bliss. 
+
+[:np] [:ra 245]
+McGruder gives Rimmer a sexy look and he drives off along the beach. 
+We cut to the interior of a classy restaurant full of colorful, you 
+might say strange if they were poor, people. The Cat is blowing down 
+straws and Lister is throwing food about and trying to catch it in 
+his mouth as usual. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Where's Rimmer? I thought he was right behind us. 
+
+
+[:np] [:ra 245]
+The Better Than Life guide appears and serves Listers' food. 
+
+[:nd] [:dv br 0]  Your caviar vindaloo sir. Half rice, half chips and lots 
+more bread and butter to follow. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I never thought I'd see the day when I could eat 
+something as classy as this you know. 
+
+[:nd] [:dv br 0]  This is Better Than Life sir. 
+[:np] [:ra 245]
+turns to Cat
+[:nd] [:dv br 0]  And yours 
+was the fish sir? 
+[:np] [:ra 245]
+
+The cat nods eagerly and starts to lick the mans jacket. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  What are you doing? 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  I always do this when someone gives me food. 
+
+[:np] [:ra 245]
+The cat continues and Lister puts down his plate. The guide puts 
+a tank full of fish in front of the cat. 
+
+[:nd] [:dv br 0]   As ordered sir. Small fish. Are you sure you wouldn't 
+like your fish cooked. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  No sir. I like my food to move. 
+[:np] [:ra 245]
+he produces a fishing 
+rod, dangles the hook in the tank and starts singing. 
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] I'm going to 
+eat you little fishy 
+[_<300>]
+
+[:np] [:ra 245]
+Rimmer walks in dressed rather nattily like someone from some years 
+ago who has just been out for a drive in an expensive car, goggles 
+included. 
+
+ [:nd] [:dv br 0]  Mister Rimmer sir. They're on table K on the second 
+terrace. 
+[:np] [:ra 245]
+The guyde salutes.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Excellent. 
+[:np] [:ra 245]
+he moves off to join them
+
+[_<400>]
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] I'm going to eat you little fishy. I'm going to 
+eat you little fishy cos I like little fish 
+[:np] [:ra 245]
+he laughs and shakes salt 
+into the tank. Lister still looks on with a strange expression
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Ah, I'm sorry, I don't know what happened. I was 
+driving along and suddenly there was McGruder. Well one thing led 
+to another and [_<400>] Good God this is a great game. Twice in one lifetime, 
+I'm turning into Hugh Heffner. 
+[:np] [:ra 245]
+he starts to eat some bread.
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Rimmer, you can touch things! 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I know. Why do you think I was so late? 
+[:np] [:ra 245]
+makes 
+gesture with fist and elbow, see your internal brain-stores for description.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Have you checked into your room yet? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What room? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I mean mine is absolutely brilliant. I've got this 
+vibrating, leopard skin, waterbed in the shape of a guitar. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Yeah? Well you should take a look at my wardrobe. 
+It's so big it crosses an international time zone. When it's three 
+o'clock where my shirts are it's seven in the morning for my socks. 
+[:np] [:ra 245]
+The cat nods smuggly and returns to his fishing.
+A voice off stage is then heard calling. Rimmer looks round, thinking 
+someone is showing off.  The voice says Admiral: lister and the cat continue they're disgussion.
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  But what about my electronic lavvy? I mean this 
+thing comes when you call it, take your trousers down, does everything 
+for you. It's just so stylish. 
+[:np] [:ra 245]
+The voice repeats the word admiral.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Who is that? Just because some hoity-toity, gonad 
+brain, gimp knows an Admiral does he have to broadcast it? 
+[:np] [:ra 245]
+The voice adds to his admiral statement adding 2 words and saying
+Admiral Rimmer sir. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Awwwww, yawn-o-rama city. 
+We know an Admiral. Come on. 
+[:np] [:ra 245]
+
+The owner of the voice now appears and does a Rimmer-style salute.
+He is in a Captains uniform and remains at salute through the following 
+speech. 
+[:nf] [:dv br 20 pr 100 bf 1000 sr 0 hr 0 gf 56]
+Admiral Rimmer sir. Field Marshall Clifton sends his 
+compliments and wonders if you would care to join him for port and 
+cigars. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Errr, I think there must be some mistake. I'm not 
+an Admiral. 
+[:np] [:ra 245]
+Suddenly Rimmer is an Admiral. He is now wearing a uniform with more 
+decorations than the cistine chapel. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I love this game! Gentlemen, do excuse me. 
+
+[:np] [:ra 245]
+Rimmer gets up and goes to join the Field Marshall and friends. The 
+guide reappears with a champagne bucket which he sets down on the 
+table. 
+
+[:nd] [:dv br 0]   Dom Perignon 54 sir. 
+[:np] [:ra 245]
+he brings out a beer glass and 
+puts it down 
+[:nd] [:dv br 0] In a pint mug as requested. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Thank you my man. 
+
+[:np] [:ra 245]
+Lister drinks the bubbly in one go, spilling a good deal of it and 
+puts the empty glass on his head. The cat looks on. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  That's a good year. 
+[_<800>]
+[:np] [:ra 245]
+We switch scenes to the Field Marshals party. Rimmer is sat at the 
+head of the table, smoking a cigar. Everyone is laughing good naturedly. 
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  So I said to Hollister [_<400>] Well 
+I can't actually remember exactly what I said to him. But it was one 
+of the most enormously cruel and frighteningly witty put downs ever. 
+
+
+[:np] [:ra 245]
+The military men look at each other for a while. But this is Better 
+Than Life so they all burst into laughter. A young cadet comes up 
+to Rimmer. 
+[:nk]
+[:dv sx 0 bf 0 sr 70 hr 70 br 0 ap 200 hs 30 as 100]
+Sir, I know it's a most awful bore but, err, 
+would you mind just signing this. 
+
+[:np] [:ra 245]
+He produces a book and pen.
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What's that you little pipsqueak? 
+
+[:np] We now see that the book has a colour photo of Arnie on the front 
+in full uniform. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  My Incredible Career by Admiral A. J. Rimmer. 
+
+[:nk]
+[:dv sx 0 bf 0 sr 70 hr 70 br 0 ap 200 hs 30 as 100] I've read it eighteen times sir. 
+
+[:np] [:ra 245]
+Rimmer signs the book and hands it back to the cadet. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  There you go laddo. 
+
+[:nk]
+[:dv sx 0 bf 0 sr 70 hr 70 br 0 ap 200 hs 30 as 100]Oh thank you sir. Gosh, I'll be the envy 
+of the academy. 
+[:np] [:ra 245]
+Rimmer stops as behind the Field Marshall and another officer he 
+sees his father. 
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Father. 
+
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 100 pr 95] [:ra 220]  Son. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What are you doing here? 
+
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 100 pr 95] [:ra 220]  I'm sorry to barge in on you and your, 
+err, officer chummies but
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Yes? 
+
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 100 pr 95] [:ra 220]  I just wanted to tell you. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Yes? 
+
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 100 pr 95] [:ra 220]  I just wanted to say. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Yes? 
+
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 100 pr 95] [:ra 220]  I just wanted to say [_<600>] You're a 
+total smeghead! 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What? This isn't my fantasy! 
+[:np] [:ra 245]
+the Cat comes into view
+
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  No, it's mine. 
+[:np] [:ra 245]
+The cat steals rimmers cigar and exits.
+
+[:np] [:ra 245]
+
+[_<800>]
+outside, Lister and the Cat are playing 
+golf. Lister is dressed normally but the Cat has full golfing costume 
+on. Lister is not playing with much style and gives the ball a whack. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Yess, Hooooo. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Hey move over man. I want to plant my egg [:np] [:ra 245]
+he puts the 
+ball down.
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  It's called a ball. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Are you trying to tell me how to play this game? 
+You think cats never played golf? Ok. 
+
+[:np] [:ra 245]
+The cat takes a big swing, spins round three times and throws the 
+golf club far into the distance. Lister dives for cover. The cat hops 
+on one leg watching the flight of the club. We next see the pair pushing 
+their golf bags up a hill and making car noises.
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I'm really thirsty you know. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Yeah? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Yeah. 
+
+[:np] [:ra 245]
+The guide comes into shot carrying a large drink with a firework 
+in it. 
+
+[:nd] [:dv br 0]  Perhaps a banana bomb sir. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Thank you my man. 
+
+[:np] [:ra 245]
+The guide lights the rocket and it shoots up out of the glass. They 
+laugh and carry on walking. They pass a large bed on which Marilyn 
+Monroe is lying. 
+
+[:nb]  Hi sugar! How about a bit of ooby dooby doo? 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  How's about a bit of ooby dooby don't. 
+
+[:np] [:ra 245]
+They carry on and Marilyn throws a pillow at him. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  What a pest! 
+
+[:np] [:ra 245]
+They have reached the green, a golf ball comes rolling onto it and 
+rolls near to the hole. A golf club then comes flying onto the green 
+as well, landing nearby. Lister and the Cat walk into view and so 
+does Hollys monitor from the other side.
+
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Alright? What's happening dudes? 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  We're having a really nice time. I'm dating Marilyn 
+Monroe and also I have another girlfriend who's a mermaid. She's half 
+woman, half fish. 
+[:np] [:ra 245]
+he starts licking and kissing a photograph then 
+turns round.
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  It's Miranda, my girlfriend. 
+
+[:np] [:ra 245]
+As she comes out of the water we see the top half of her is a fish, 
+the bottom half a woman. 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Somehow I'd imagined she'd be a woman on top and 
+a fish on the bottom. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  No. That's a stupid way round. 
+[:np] [:ra 245]
+he sticks out his tongue 
+briefly and grins and waves.
+[_<800>]
+
+[:np] [:ra 245]
+
+A heavily loaded small car drives into view down a country lane. 
+We hear kids screaming and see Rimmer at the wheel. The car stops, 
+it seems to be in trouble. Rimmer and a woman get out. They start 
+arguing. We see there are several kids running around and the woman 
+is pregnant again. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] Rimmer.  Rimmer! What happened to you. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Lister. Ah this is a great game lister. I couldn't 
+be happier. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Who are all those guys? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It's McGruder. She got pregnant so this morning 
+she made me marry her and this afternoon we had seven kids. Bliss. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Where's your E type? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  It was too impractical. With all the kids and everything. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Rimmer you fantasised that you had seven kids and 
+a mortgage? 
+[:np] [:ra 245]
+Rimmer grabs lister and hisses at him.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Help! 
+[:np] [:ra 245]
+His wife, mcGrooder interjects and yells.
+[:nb] [:dv ap 300 hs 130]   Arnold! Where are the nappy sacks? 
+[_<800>]
+[:np] [:ra 245]
+
+Rimmer is now wearing very old clothes and drinking from a bottle 
+wrapped in a paper bag. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  My brain's rebelled. It just won't accept nice 
+things happening to me. It just keeps fantasising horribleness. 
+
+[:np] [:ra 245]
+Rimmer slides down the wall. Suddenly an official looking man appears. 
+
+
+[:nh] [:dv ap 140]
+Meester reemer?
+[:np] [:ra 245]
+Rimmer sounds week.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Yes. 
+[:nh] [:dv ap 140]
+Arnold Judas reemer? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Yes. 
+[:np] the official smiles.
+[:nh] [:dv ap 140]
+Outland Revenue sir! 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Oh my God! 
+
+[:nh] [:dv ap 140]This is a demand for immediate payment. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Eighteen thousand? 
+
+[:nh] [:dv ap 140]If you are unable to pay sir I am instructed 
+by the Revenue to break both your legs and pull off your thumbs 
+sir. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What am I going to do? I'm broke. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  I'll pay. I'll pay. I'll pay 
+[:nh] [:dv ap 140][:np] [:ra 245] he looks through pockets 
+but can't find any cash. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] Where's all my money gone? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Oh no! I just fantasised it all away. This is getting 
+worse. Help me. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Ah! don't move! A huge, black, furry, spider with 
+big teeth just crawled up your trouser leg. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I know. I just put it there. It's the thing I'm 
+afraid of most in the whole world, a tarantula crawling up my trousers. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Rimmer, this is getting out of hand. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Do you think I don't know that. Ah! he's past my 
+knee. He's into my boxers. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Close your eyes and wish it away. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I can't! 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Concentrate man. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I can't! 
+[:np] [:ra 245]
+there is A sudden change of scene via some form of reality shift. We pull 
+back from a close up of Rimmer to find the crew buried in sand up 
+to their necks. Even Holly is involved. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  What's he done now? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I'm sorry, I'm really sorry. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  What's going on? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Our faces have been smeared with jam and we're 
+about to be eaten alive by killer ants. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Why? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Why not? 
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  Oh dear. You can't take him anywhere can you? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You've ruined this Rimmer. 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  We're going to die. We're going to die and it's 
+all my fault. 
+
+[ah<400>r<400>rr<400>g<200>!]
+
+[_<800>]
+
+[:np] [:ra 245]
+Suddenly we are back on Red Dwarf. Everyone removes the BTL helmets. 
+
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You're a total dinglebat aren't you? 
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I'm sorry. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Yeah we were having a great time until you came along 
+with your diseased brain. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  You're a bozo. 
+
+[:np] [:ra 245]
+Lister picks up another piece of mail and they all walk out.
+
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  I can't help it, nice things just don't happen 
+to me. 
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Hey, what's that? 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  It's a letter and it's for Rimmer. 
+[:np] [:ra 245]
+lister opens 
+it and reads. 
+
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] Dear Sir due to a computer error you were wrongly 
+informed that you had failed the astronavigation exam. In fact you 
+passed with honours and you are hereby promoted to navigation officer 
+first class. We enclose your pips and insignia.  [_<400>]Smegging hell! 
+
+[:np] [:ra 245]
+Lister and the Cat look disgusted and walk off. 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Who said you was a loser eh? Who said nice things 
+never happen to you? 
+
+[:np] [:ra 245]
+Rimmer does a big salute. The door to the cupboard then opens and 
+the taxman comes out carrying a big hammer. 
+
+[:nh] [:dv ap 230] I did! 
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Oh no, we're still in the game! 
+
+[:nh] [:dv ap 230] You certainly are. Now what about my eighteen 
+grand? Come on, it's bone crunching time me old china. Now where's 
+those little thumbies? 
+
+[:np] [:ra 245]
+He puts Rimmers hand down on the table and gives it a big thump with 
+the hammer. The film freezes. Final caption in big letters: 
+g! A! M! E!
+Over!
+
+[_<800>]
+the end.
+[_<800>]
+[:np] [:ra 245]
+My apologies for the late episode, I had a pc reformat and no screen reader so I had to rely on sited assistance to get this one posted.  The text version may not be around for a couple days as emailing is one thing getting a sited person to use an ftp client when they can just about read is another.
+
+Thanks for your understanding.
+

@@ -1,0 +1,733 @@
+[:phone on]
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]
+Three million years from Earth, the mining ship Red Dwarf.  It's
+crew, Dave Lister, the last human being alive. Arnold Rimmer, a
+hologram of his dead bunkmate, and a creature who evolved from the
+ship's cat.  Message ends.
+
+Additional:  Our biggest enemy is going space crazy
+through loneliness.  The only thing that helps me maintain my slender
+grip on reality is the friendship I share with my collection of singing
+potatoes.
+[_<800>]
+[:np]Red Dwarf, Season 2, Episode 5. Queeg.[_<800>]Sleeping quarters.
+
+CAT is on a chair, listening to a personal stereo, LISTER on the bottom
+bunk.  RIMMER is playing draughts with a skutter.  LISTER is filling out
+a questionnaire in a woman's magazine.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   "19.  When you are alone in bed, what do you wear?  Is
+it:  A, nothing at all, B, a flannelette nightie, or C, a sexy black
+negligee?" [:np]He looks down at his London Jets T-shirt. [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  see.   "20.  Do you
+think your boobs are:  A, too small, B, just right or C, too large?"
+[:np]He feels one breast. [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Definitely too large!  So what's me rating?
+"Mainly sees,  You sure are one foxy lady:  sexy, sensual and you don't
+mind showing it." Yee-es!  I'm a sex beast!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Yow, Yeah, Yee-oww, oooh, yea-oww!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Do you mind?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] What?  Yeaaah, yeee-owww!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I'm trying to concentrate.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Yeeeeeh, I can't hear you, yow
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What are you listening to?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Owww!  Isn't this great? Yoooow!
+
+[:np]LISTER takes the tape box from CAT.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]    "Robert Hardy reads "Tess Of The
+Durbevilles?" Let's have a listen.
+
+[:np]He listens for a few seconds, then joins in CAT's ecstatic howls.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   The tape must have got twisted, man!  This is really good!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] EXCUSE ME. I'm in the middle of a tactical calculation which
+could well swing this entire game.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, you've lost, man.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] It's true.  He has only one piece left, stuck up in one corner
+and surrounded by the skutter's double pieces.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] There's plenty of space for manouver.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You've only got one move you can make and then he zaps you.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Admittedly, at first glance that is indeed the way it looks.
+What you're failing to take into consideration is that El Skutto here
+has to go back on duty in [:np]Checks his watch.   [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]4 minutes and 31
+seconds.  And if he goes before the game is concluded, I win by
+default.  4 minutes, 15.  [:np]He starts to sing, English football
+supporter style, to the tune of "Auld Lang Syne." [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] rimmer! Rimmer!  Rimmer, Rimmer, rimmer!
+
+[:np]The skutter gives him the two-fingered salute.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You're a piece of dirty filthy cheating scum, aren't you?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Absolutement!  And that is why I'll win. Because I have the
+ability to think my way round problems rather than sticking to the
+straight, pre- programmed lines.  That's why men are so better than
+machines.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, I don't know, you know.  I had this Geography teacher, Miss
+Foster.  She took us on a school summer camp trip to Deganwy.  I had
+the tent next to hers, right.  And in the middle of the night I was
+woken up by this really weird noise.  _She_ didn't think men were
+better than machines.
+
+[:np]Talking of machines, HOLLY puts in an appearance.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    What's happening then, dudes?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, bog all.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Hey up, I've forgotten what I was going to say now.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Well, it can't be that important, then, can it?
+
+[:np :ra240]He is proved to be as wrong as ever when the whole ship shakes under a
+tremendous impact.  Everything is thrown sideways, LISTER falls out of
+bed, CAT is knocked off his stool, and the table and draught-board go
+flying.  Star Trek eat your heart out!
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    That's it, yeah.  Look out, a meteor is about to hit the ship.  I
+knew it would come back to me.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Thanks for the warning!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I'm sorry, I've not been very well lately.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What's wrong with you, Holly?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] He's computer senile, that's what's wrong with him.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Is there any damage?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I don't know.  The damage-report machines been damaged.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, where did it hit?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I'm not sure, all me monitors are out.  Round about floor 591, I
+think.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] You're about as much use as a condom machine in the Vatican.
+[_<800>]
+[:np]Floor 591.
+
+Enter our intrepid damage-repair squad, accompanied by HOLLY, who has
+rigged up a mobile monitor on a trolley.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, there's nothing here.  Let's check 592.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Umm [_<500>] has anybody seen my legs?  They don't appear to be below
+my waist where I normally keep them.
+
+[:np]They are indeed absent without notice.  RIMMER is now cut off short at
+the waist, like a scene from an old Tex Avery cartoon.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly, what's happened to Rimmer's legs?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Here they are right here!
+
+[:np]He sounds disgusted.  The disembodied legs are running around,
+desperately trying to find RIMMER.  They are about to go through a door.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Stop them!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Come on, leggies, this way!  Over here.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    It must have been 592.  That's where the Hologram Simulation Suite
+is!
+
+[:ra245][:np]RIMMER manages to center his legs under his body, and holds firmly onto
+his belt to stop them wandering off again.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What does this mean?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    It's probably not serious, don't panic.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Well, when it's not serious when your genitals can go wandering
+off on their own, I wonder what is?
+
+[:np]They head for one of the lifts.  RIMMER pauses to make sure his legs are
+fully attached, then hurries to catch up.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Wait for me me me me me me me!
+[_<800>]
+[:np]Floor 592.
+
+The lift doors open near the Hologram Simulation Suite.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Here it is.  592.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, are you alright?
+
+[:np]RIMMER comes round the corner.  he is moving with a strange, skipping
+step.  In reply to LISTER's question, he clasps his hands together, and
+speaks in a high- pitched lilting falsetto:
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 300 pr 95] [:ra 220] Well, you see, the shuttle was late, the shuttle was late.  And
+they're usually so good, they're so good, aren't they?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] What's happened to him?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   He's turned into Brannigan, the ship's psychiatrist.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    We'd better get him fixed.
+
+[:np]Inside, it is a mess.  Alarms sound, warning lights flash and smoke fills
+the air.  LISTER and CAT grab fire extinguishers and start to tackle the
+fires from burning consoles.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    It's all in hand.  No panic.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 pr 0] [:ra 220] No panic everyone.  It's all in hand.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    You just need to override the charred relays, Dave.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 pr 0] [:ra 220] You just need to override the charred relays, Dave.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, How do you do that, Holly?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Well, How do you do that, Holly?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Bypass the main circuit.  That ring of switches over there.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 pr 0] [:ra 220] Bypass the main circuit.  That ring of switches over there.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What, this one over here?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What, this one over here?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Yeah, that one.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 pr 0] [:ra 220] Yeah, that one.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Now press the bypass.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 pr 0] [:ra 220] Now press the bypass.
+
+[:np]RIMMER gives a gasp and doubles over as the bypass is pressed.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Ugh!  That was horrible.  I never want to go through that again!
+
+[:np]He tenses, then abruptly starts to spin on the spot.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 hs 50 ap 150 pr 95] [:ra 220] Aaaaaooow!  Yeeeeeeaaaah!  Aaaaaaaaooooowwwwhhhhhaaaa!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Hey!  Now he's me!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    It's a loose cable.  Put the red plug in the blue socket.
+
+[:np]RIMMER snaps back to normal.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Is that it over?  Are we okay now?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Yes.
+
+[:np]LISTER holds up a yellow leed.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Shouldn't this plug into something?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh yeah, that joins up with the white cable.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   The white cable?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Yeah.
+
+[:np]LISTER picks up the cable in question and joins the two together.  There
+is a blue crackling flash as LISTER is given the shock of his life.  The
+connection holds for a few seconds before being blown apart by an
+explosion.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    or is it the yellow cable?  Yes, it should have been the yellow
+cable.
+
+[:np]The others pick themselves up from the floor.  RIMMER is shaking with
+rage.  He addresses HOLLY.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] You are a total, total [_<600>] a word has yet to be invented to
+describe how totally whatever-it-is you are, but you are one.  And a
+total, total one at that.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Alright, keep your hair on.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I'm lucky if I can keep my legs on with you in charge!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Yeah, he's out to lunch, man!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] He's out to lunch, breakfast, dinner, tea, supper, the lot!  He's
+not in for a single meal, if you ask me!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Hey, who's that?
+
+[:np]On one of the monitors is an unfamiliar face.  Black, mustached, with
+large ears.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Aliens!
+
+[:np]He goes and bows down in front of the monitor.  HOLLY's reaction is
+somewhat different.  He seems uncomfortable.  it is clear that he
+recognises this face, and is expecting trouble.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Queeg.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Who's Queeg?
+
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220]  I'm QUEEG 500, the Red Dwarf back-up computer.  All vessels of
+the Jupiter Mining Corporation fleet are obliged to carry a back-up
+computer to replace the primary computer, if the primary computer
+contravenes Article Five.  I am therefore assuming control of this
+vessel.
+
+[:np]For some reason, he sounds just like a U S  army drill sergeant.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    This is mutiny, Mister  Queeg.  I'll see you swing from the highest
+yard-arm in Titan Docking Port for this day's work.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What's Article Five?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Gross negligence, leading to the endangerment of personnel.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Hang on, he can't do this.  Holly's got an I Q of six thousand!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Yeah.  Right on.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Is that what he told you?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, what is it, then?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] It has a six in it, but it's not six thousand.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] What is it?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Six.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Six?  Do me a lemon!  That's a poor I Q for a glass of water!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   How come he knows the answers to all the questions about science
+and space that we ask him?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] He consults a book.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    What a slimeball!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] He get's all his information on astronomy, phenomonology and
+physics from a single book.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What book?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] The Junior Encyclopedia Of Space.  It's the only one that has
+pictures.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    That's slander, that is.  You'd better find yourself a good
+lawyer, sunshine.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] So that's why he's never on the case!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I am on the case.  I'm sharp.  I'm kicking bottom.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   How come he can navigate us back to Earth?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] He can't.  We've been going around in circles for the last
+fourteen months.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]    You what?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    A load of tottenham, that is.  A steaming pile of hotspur.  I'm
+wise to his game.  He's turning you against me so he can take over.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] This is not a matter for discussion.  YouThe decision has been
+made.  Your terminals have been bypassed.  You've been retired.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I'm in my prime!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] You will be given other duties.  You are now night watchman.  From
+now on, Red Dwarf is run by Queeg 500.
+[_<800>][:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Queeg to all personnel.  Course redirection implemented.  New
+bearing 057-776.  Message ends.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Ah, Lister, this is all a bit different, isn't it?  Those
+skutters, charging up and down the corridor, polishing, repairing,
+sweeping.  The lifts are fixed.  The fire extinguishers work.  And when
+I say work, I mean they work when you turn them on, as opposed to
+when you happen to pass them and cough, as they did under Holly's
+regime.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yeah, I suppose.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Look, Lister, no point feeling sorry about Holly.  It's a
+kindness.  Like a blind old incontinent sheepdog, he's had his day.
+Take him out to the barn with a double-barreled shot-gun and blow the
+mother away.  And I'm only saying that because I'm so fond of him.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Just think how Holly feels!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Feels?  He never feels anything, Lister.  He's a computer.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   He still feels.  In fact, sometimes i think it's cruel giving
+machines a personality.  My mate Petersen once brought a pair of shoes
+with artificial intelligence.  Smart Shoes, they were called.  It was a
+neat idea.  No matter how blind drunk you were, they would always get
+you home.  Then he got ratted one night in Oslo, and woke up the next
+morning in Burma.  See, the shoes got bored just going from his local
+to the flat.  They wanted to see the world, man, y'no?  He had a
+helluva job getting rid of them.  No matter who he sold them to, they'd
+show up again the next day!  He tried to shut them out, but they just
+kicked the door down, y'no?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Is this true?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yeah!  Last thing he heard, they'd sort of, erm, robbed a car and
+drove it into a canal.  They couldn't steer, y'see.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Really!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yeah.  Petersen was really, really blown away by it.  He went to
+see a priest.  The priest told him, he said, it was alright, and all
+that, and the shoes were happy, and they'd gone to heaven.  Y'see, it
+turns out shoes have soles.
+
+[:np]While RIMMER is thinking about this, LISTER makes his getaway.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Well, what a sad, sad story.
+
+[:np]He thinks about it, then a look of puzzlement spreads across his face.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Wait a minute!  How did they open the car door?
+[_<800>]
+[:np]Sleeping quarters. Morning.
+
+LISTER and RIMMER are in their bunks.  On the bedside table, the numbers
+on the antique 20th century radio/clock flick from 5:59 am to 6:00 am.
+Abruptly, the alarm sounds.  RIMMER bounces out of bed, shouting
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Off!
+[:np]He makes it out into the corridor before visual input from his eyes
+reaches his brain.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Uh, Queeg?  Why has my alarm clock gone off at six o'clock?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] That's the time you asked for.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Ah, now, Holly and I had this little understanding.  I Would say
+"Holly, wake me up at six o'clock without fail," then Holly would
+pretend to forget, and wake me up around ten with breakfast.  OK?
+
+[:np]Satisfied that his wishes have been made known, RIMMER goes back to bed.
+A few seconds later, the alarm goes off again.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Off!
+
+[:np]He sits up on his bunk, and regards QUEEG thoughtfully.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Queeg, I can see we've already cultivated a special
+understanding:  I scratch your back and you stick a knife in mine.[_<300>]All right, give me a uniform.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] It's exercises first.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Ah, yes.  Now once again, Holly, bless his little interface
+leads, and I, had this understanding
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] MOVE IT, BOY!
+
+[:np]RIMMER's arms and legs, quite without consultation with RIMMER, begin to
+exercise healthily.  RIMMER squeaks in terror.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What are you doing!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] What I'm doing, pilgrim, is I'm taking you for the regulation five
+hundred jerks.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] but I don't want to!  Stop it!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] And then your ass is on a three mile run.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] You just can't take over control of my body willy nilly!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] The company is paying for your hologrammatic survival.  And out
+here in space, I AM the company.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Lister, help me, wake up, Lister, help me!
+
+[:np]LISTER wakes up.  His eyes go wide.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What the hell's going on?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Queeg is making me fit!
+
+[:np]QUEEG sits him down on the floor.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What are you doing?  Sit ups?  God, no!  My stomach won't take
+it, it's too flabby!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] One!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Mummy!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Two!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Mercy!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Three!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Help me!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Four!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 500] Holly and I had this little understanding
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Five!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yee es!  Fight that flab!
+[_<800>]
+[:np]Red Dwarf corridor.
+
+CAT is at a wall-mounted vending machine, trying to get something to eat.
+RIMMER is jogged past.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I want control of my own body!  Getting fit is going
+to kill me!  I'll get a bike!
+
+[:np]CAT thumps the machine.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] I said food!  Is anybody home?
+
+[:np]No response.
+[_<800>][:np]Sleeping quarters.
+
+LISTER is shaving, with his usual complete lack of charm.  RIMMER is
+entered.  His head is lolling at an angle and his eyes are closed.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What's the matter with him?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] He fainted after the first 500 yards.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What, you made him jog two and a half miles unconscious?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] It's regulation.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yee es!  Nice one, Queeg!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] 07:00.  time for his astronavigation study.  I'd better wake him
+up.
+
+[:np]RIMMER's head is lifted, and his face slapped several times to wake him
+up.
+
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Revise and learn pages 21 to 25.  You will then be tested.  If you
+fail, tomorrow you will take a five mile jog.  I am now returning to
+you control of your body.
+
+[:np]As RIMMER collapses on the bunk, CAT enters.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Hey, I can't get any food!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Try a different machine.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] I tried them all!
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] I'm sorry.  You have run out of credits.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] They've all gone crazy!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Queeg, what's happened to the machines?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] I refer you to article 497.  When crewmembers do not have credit,
+food and drink may not be supplied until the balance has been restored.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Naah.  Listen, me and Holly, we had this little understanding
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] If you want food, you have to work.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Work?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] You'd better get to it, caus you're looking at one
+hungry pussycat.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Both of you.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Hey, hey!  Woah, woah, woah, I do not do the "W" word.  Cats do NOT
+work!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I've got a note from me mum.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] From now on, EVERYBODY works!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Not this pussy!
+[_<800>]
+[:np]Corridor.
+
+They are, needless to say, working.  To be precise, scrubbing the decks.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] I can't believe I'm doo'in this!  Look at me, I'm disgusting!  I look
+like you in your best clothes!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Look, it's easy.  Keep imagining the floor as Queeg's face.
+
+[:np]They look at the floor, spit at it in unision and rub hard at it with the
+brushes.  After a few seconds, though, CAT pauses again.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Aw, look at my hands!  I had lovely hands!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, wear the smegging gloves!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Marigold with blue?  Are you crazy?  How long do we have to do this
+for, anyway?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   We've only been doing it ten minutes!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Ten minutes too long.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   We've got to do it all day.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] What! All day?  The whole entire day?  What about naps?  I'm a
+cat[_<300>]I need some naps.  If I don't nap nine or ten times a day, I
+don't have enough energy for my main snooze.
+
+[:np]Just then, HOLLY approaches from a side-corridor.  He is on a monitor
+which is mounted on a trolley.  He is wearing a hat.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Halt!  Who goes there [_<300>] friend or foe?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly!
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] How ya doo'in?  This is great!  Hey, let me wipe your screen.
+
+[:np]CAT sprays HOLLY's monitor screen with window clener, then bufs it with a
+rag.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   So how's it goa'in?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Yeah, what you been up to, man?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh, this nightwatchman lark keeps me busy.  Shining me torch down
+corridors.  Turning it off.  Shining it again.  Life's full.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   We can't go on like this, Holly.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Yeah.  Queeg has got to go!  Look what he's done to my cuticles!
+The man is a maniac!
+
+[:np]Just then RIMMER is jogged past.  He chips in
+
+ [:nf] [:dv la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I agree!
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   He's got us working, otherwise we don't eat!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Well, no doubt he knows what he's doing.  unlike certain senile
+gibbering wrecks of computers we could mention.  Still, it was nice to
+see everyone rallying round defending me to the hilt.  Different story
+now, innit?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, I defended you.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh, I remember it well.  Queeg says I've got an I Q of six, and you
+immediately leap to my defence, saying "Really?  That explains
+everything!"
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   No.  That was Rimmer!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Nevertheless.  The fact remains that there are certain characters
+on this ship that don't believe my I Q is six thousand.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I believe you.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I could prove it if i wanted to.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   There's no need.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I want you to prove it.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, okay, what's the square root of 2,049?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh.  You want me to prove it, do you?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   No, no.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Clearly you do.  Clearly just doing the square root of 2,049prove I have an I Q of six thousand.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] What is it?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    You wouldn't prefer a sports question, would you?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Forget it, Holly, it's just not important.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    It is for me.  I've been impuned.  I want to clear my name.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Well, what is the square root of [_<500>] 2,049?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    How about a space question?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Like what?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I don't know.  Like... what's the nearest planet to the sun?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What's the nearest planet to the sun?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh, easy.  Easy peasy.  That's right down my particular field of
+expertise, that is.  Your nearest basic planet to your actual sun is
+
+[:np]HOLLY pauses.  He lifts a book into view -- a large yellow book with THE
+JUNIOR COLOUR ENCYCLOPEDIA OF SPACE written on the front cover.  It
+looks like the sort of science book published in the 1970s.  He takes a
+furtive peek at it.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Mercury.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yeah.  That's right.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh, ye of little faith.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, you've convinced me, Holly.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Me too.  So, are we getting rid of Queeg or what?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Am I fully restored in your confidence as the right dude for the
+gig?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] Yeah.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I'll be in touch.
+
+[:np]He rolls off, whistling.  LISTER and CAT, also whistling, get back to
+work.
+[_<800>]
+Rimmer is sitting on his bunk, although judging by his posture, only just.
+LISTER is sitting at the table, a food tray in front of him.  He lifts
+the lid, then stares.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   He's taking the smeg!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Who is?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Queeg.  Look at what he's given me for dinner:  a pea on toast.
+One pea.  I tell you, I'm that far from cracking.  [:np]Goes to squish the pea, it snaps away. [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]    I've lost me pea!  Oh, that's it!  I've cracked.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] He's just doing this to destroy your morale.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Is he?  Well, I want me pea back.  It's my pea.  I earned that
+pea!  Where is it?  I don't care if it's on the floor, if it's covered
+in fluff, even under the bed with my toenail clippings, I don't care
+where it is -- it's my pea, I earned it, I'm going to eat it no matter
+what!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] It flew off into your dirty-sock basket.
+[:np]LISTER pauses to consider this.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I'll just have the toast.
+[:np]He nibbles on one corner of the toast thoughtfully.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Why didn't we stick up for Holly?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I did.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You did?  When?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] All right, I didn't.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Nobody did.  It's terrible.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] We thought we were getting something better.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What about trust?  What about fidelity?  What about simple, basic
+honest friendship?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Friendship?  Do you know how many people I've met in my life I
+could count on as friends?  True friends?
+[:np]RIMMER stands up and walks over to the table.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, if you count Inflatable Ingrid, your Polythene Pal, one.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I'll tell you. [:np]He pauses and thinks. [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] None.  I
+got burned once, and I learned my lesson.  Don't trust anybody.  There
+was this one lad.  Porky Roebuck.  I'd known him two years.  We were
+almost family.  His dad was secretely knocking off my mum, that's how
+close we were.  Anyway, we were in the Space Scouts together.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You were in the Space Scouts?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Oh, yeah.  [:np] He does the Space Scout Salute. [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] "Pinkles, Squirmy.
+Flib Flab Flubber." We were fifteen years old.  We went on this
+survival course, twenty-four hours out in the wilds, sleeping rough,
+surviving on wild berries and things.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What, did you go to Butlins?
+[:np]RIMMER lies down on his bunk.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] We were each given a swiss army knife.  You only ate what you
+killed yourself.  I remember ten of the boys got together and decided
+to eat me.  They tied me to a stake, lit a fire, and poured barbecue
+sauce all over me.  I remember thinking as I went round and round,
+"Porky will save me, he's my best friend." It turned out Porky was the
+ringleader and had actually bagsied my right buttock.  If it hadn't
+been for Yakka-Takka-Tulla, the Space Mistress, I honestly believe they
+would have eaten me.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, come on, they were only bullying you.  They would really have
+eaten you!  You know what kids are like!
+[:np]LISTER flops onto his bunk.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] the point is, Lister, friends are only friends when it suits
+them.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  Oh, lights.
+[:np]The lights go down.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Lister?  How did you know about Inflatable Ingrid?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I've been seeing her behind your back.
+[_<800>]
+[:np]Drive room.
+
+RIMMER is having an astro-navigation lesson.  CAT and LISTER are
+polishing the screens and dusting surfaces.
+
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Compute.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Compute.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] The product of the corellation of v x d y minus the sum of the set
+v1 over the sum of R, given that R is a ratio of D over f, given that
+they are constants, and S is an integer variable.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Just one small question [_<400>]
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Yes?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What does "compute" mean?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Just do it!  And you two suckers!  Stop shirking and get working!
+[:np]HOLLY strides (well, wheels) along a corridor.  Over, we hear a tune
+playing. It is the tune of a song. The words are:
+
+Do not forsake me, oh my love, I only go, I must be brave:  For I must
+face the man who hates me, Or I will cower in my grave.
+[_<300>]
+He enters the drive room, and addresses Queeg.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Queeg.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] What do you want?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I want my ship back.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Too bad.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Even if I have to fight for it.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Steady on, Holly.  This one's a nutter.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    I challenge to the game of your choice.  May the greater mind win.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Oh, my God.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    The winner is commander of Red Dwarf.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] And for the loser?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    The loser will be erased.  Terminated.  Oblivionised.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Bye bye, Baldy.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Name your game.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Chess.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    It can be anything.  Any game at all.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Chess.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Draughts, poker, anything.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Chess.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Subbeto, Snakes and Ladders
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Chess.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Monopoly, maybe?  I'll let you go first.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] CHESS!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    So you like a bit of chess, do you?  Transfer me to the monitor.
+[:np]HOLLY disappears from the monitor trolley and appears on the main screen,
+facing QUEEG.  On another screen, a 3-D chess board appears.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly, don't do this, man.  You're going to get rubbed.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    A computer's gotta do what a computer's gotta do.  Let battle
+commence.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Pawn to King Four.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Horsie to King Bish Three.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] It's called a "knight," actually, Holly
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Knight to King Bishop three.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Queen to Rook Eight.  Checkmate.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] That's an illegal move.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh, sorry.  Queens don't move like that.  I was thinking of poker.
+[:np]RIMMER covers his face with one hand, despairing.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Cleudo?  You could be Colonel Mustard.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] If it's any help, I've been studying his tactics and there's a
+pattern emerging:  Every time you make a move, he makes one too.
+(Winks to HOLLY.)
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    (Winks back.) Thanks, Cat.
+[:np]The game starts again in earnest.  We see a succession of images crossing
+the screen -- QUEEG and HOLLY, as they battle back and forth; the chess
+board, peices moving rapidly from square to square, LISTER, CAT and
+RIMMER as they watch the battle's progress:  they all look sick to the
+stomach.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Pawn to King Four.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Knight to king Bish Three.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Bishop to Knight Five.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Horsie <flanks?> Prawn.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Pawn to Queen Five.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Horsie To Bish Three.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Bishop-Pawn to Queen Three.
+[:np]The images come thicker and faster, as if to indicate a passage of time.
+Eventually
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Prawn takes Horsie
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Bishop-Pawn takes Pawn
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Bish takes Prawn
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Bishop to Knight Five.  Double Check and Mate, sucker
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Oh yeah, I didn't see that.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly, man, what have you done?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] He's lost.
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] And the loser get's erased.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Noughts and Crosses?
+[:np][_<800>]
+Sleeping quarters.
+
+CAT, LISTER and RIMMER are gathered there.  CAT and LISTER are on the top
+bunk, RIMMER on the bottom.  They all look thoroughly depressed.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What kind of a plan was that?
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] A stupid plan, that's what kind of plan it was.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, why didn't we stop him?
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] We thought he had something up his sleeve.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Now we've got Queeg forever, and that's a long time.
+
+[:np]HOLLY's face appears on the wall moniter.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Well, dudes, I've come to say goodbye.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   So you're definitely going to get rubbed, Holly?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Fraid so.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Life's going to be hell!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Well, see you, Dave.  Hope it works out with you and Kochanski.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Cheers, hol.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    See you, Cat.  Hope one day in the not too distant future you
+fufill your heart's desire and get your end away.
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] Thanks, man.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    And Arnold -- Well, I hope you meet those aliens your looking for,
+who can give you a body, and you become an officer and you get a sex
+life, and all the other millions of things you feel you need to make
+you happy.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Thanks, Holly.
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Well, I hate long goodbyes.  Perhaps next time you've got the dosh
+together to go down the disco, you'll raise a glass to your old mate
+Holly, and think "Things weren't too bad when he was around.  Perhaps
+not the most efficient computer ever invented, but we had a giggle."
+Oh, one last thing [_<1000>] 45.265881
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    That's the square root of two thousand and forty-nine.  I may not
+be fast, but I get there in the end.  Well, as they always say, finish
+on a song.
+
+[:np]He starts to sing.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    "I'll say goodbye to love, No one really cared if I should live or
+die, Time and time again the chance for love has passed me by"
+
+[:np]As he sings the last line his voice, and his image, grows fainter.  The
+word "ERASE" Appear on the moniter.  HOLLY vanishes completely, and the
+message changes to "ERASE COMPLETED." After a few seconds, QUEEG appears
+on the monitor.
+
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] Okay, suckers, get this into your stupid thick heads.  There's
+only one thing I'm going to say to you.
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220] What's happening, dudes?
+
+[:np]The others stare at the moniter in astonishment.  That was HOLLY's voice!
+The image on the screen changes -- QUEEG's face fades out, to be replaced
+by HOLLY.  He is smiling smugly.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    We are talking Jape of the Decade.  We are talking April, May,
+June, July, and August Fool.  Yes, that's right [_<300>] I am Queeg.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] what?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Queeg never existed.  It was me all along.
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] what?
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Wheeze of the week, mate!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] what!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]    Going round in circles for fourteen months!  Getting my
+information from the Junior Colour Encyclopedia of Space!  the respect
+you have for me is awsome, innit?
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You mean you staged the whole thing?
+[:nd] [:dv as 0 bf 0 la 20 nf 00 ri 100 hr 0 sr 0] [:ra 220] That's right, suckers!
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220] And the
+moral of the story is:  Appreciate what you've got, because basically,
+I'm fantastic!
