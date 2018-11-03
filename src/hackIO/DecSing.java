@@ -31,7 +31,7 @@ public class DecSing {
 
 	public static void main(String[] args) throws Exception {
 		//TODO make midi input part of the program arguments
-		Sequence sequence = MidiSystem.getSequence(new File("res/midi/furelise.mid"));
+		Sequence sequence = MidiSystem.getSequence(new File("res/midi/dragonforce.mid"));
 		Sequencer sequencer = MidiSystem.getSequencer();
 		sequencer.setSequence(sequence);
 		

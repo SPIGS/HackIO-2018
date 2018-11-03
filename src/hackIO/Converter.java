@@ -17,6 +17,7 @@ public class Converter {
 		convert_to_frequency(channels);
 		
 		for (File file : make_text_file(channels, "test")) {
+			System.out.println(file);
 			AudioGenerator.wav(file);
 		}
 	}
@@ -37,7 +38,7 @@ public class Converter {
 		ArrayList<File> files = new ArrayList<File>();
 		try {
 			
-			String data = "[:phoneme on][:rate 10][";
+			String data = "[:phoneme on][:rate 200][";
 			String noise = "laa";
 			
 			for (Channel channel : channels) {
